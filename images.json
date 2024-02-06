@@ -1,0 +1,29 @@
+{
+    "images": [
+        
+        {
+            "imgPath": "img/places/kanyemountain.jpg",
+            "imgLocation": "Wyoming",
+            "description": "Mountains depicted on album cover of Ye",
+            "date": "06/01/2018"
+        },
+        {
+            "imgPath": "img/places/belmar.jpg",
+            "imgLocation": "New Jersey",
+            "description": "Belmar beach",
+            "date": "08/07/2023"
+        },
+        {
+            "imgPath": "img/places/MSG.jpg",
+            "imgLocation": "New York City",
+            "description": "Madison Square Garden",
+            "date": "11/28/2023"
+        },
+        {
+            "imgPath": "img/places/MTSNOW.jpg",
+            "imgLocation": "Vermont",
+            "description": "Mount Snow Ski Mountain",
+            "date": "12/28/2023"
+        }
+  ]
+}
